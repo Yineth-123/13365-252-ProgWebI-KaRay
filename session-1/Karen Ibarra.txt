@@ -1,8 +1,0 @@
-Nombre: Karen yineth ibarra Guzmán 
-Edad: 19
-Programa: Desarrollo de software 
-Cuarto semestre 
-Algo raro que te guste hacer: Me gusta ver como trabajan las hormigas 
-Color favorito: Me gusta el naranja, rojo, blanco, azul, morado y verde
-Mascotas: Tengo 3 mascotas son 2 gatas y 1 gato 
-Soy consciente que no tengo todos lo conocimientos y aun tengo mucho por aprender, me interesaría hacer una app o un programa relacionado al análisis del comportamiento de un ambiente o algo automatizado para el cuidado y reporte del estado de un huerto o algo más grande como un bosque
