@@ -1,4 +1,3 @@
-
 Nombre: Luis Miguel Lasso Mesa
 Edad: 22
 Programa Académico: tecnología en desarrollo de software
